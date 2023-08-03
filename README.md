@@ -2,7 +2,7 @@
 
 ![Data Analyst Image](data_analyst_image.jpg)
 
-## 👋 Introduction
+## Introduction
 
 Hello there! 👋 Welcome to my GitHub profile. I'm Shiva Singh, and I'm thrilled to have you here. I am a dedicated and inquisitive Data Analyst with a passion for exploring the hidden stories within data. My mission is to transform complex datasets into actionable insights and contribute to data-driven decision-making processes.
 
