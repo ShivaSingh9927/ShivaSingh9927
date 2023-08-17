@@ -1,6 +1,5 @@
 # Data Analyst 👨‍💼📊
 
-![Data Analyst Image](data_analyst_image.jpg)
 
 ## Introduction
 
